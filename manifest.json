@@ -1,0 +1,36 @@
+{
+  "release": "2026-09-30-v2",
+  "verbs": 150,
+  "constructions": 196,
+  "tasks_across_5_levels": 980,
+  "files": {
+    "index.html": {
+      "sha256": "144e1caf3702cc96564acd7e4ee90726b440840df03bf3a43d7167f6ca29622f",
+      "bytes": 4738
+    },
+    "app.js": {
+      "sha256": "7bf38895b57406ba276701522065aa3ed51f6f5d6ddde73f78018a78886f812b",
+      "bytes": 10138
+    },
+    "data.js": {
+      "sha256": "80c2d169cab2e86d6a5407f16f1edbd5cb61cbebc1aac4d8f7bf89b687889be6",
+      "bytes": 121537
+    },
+    "exercise_database_v2.json": {
+      "sha256": "3a363dd5d1b74a599702523c787b85b95e6911d8a1d9f1125e41a4ac2b69ea5a",
+      "bytes": 121420
+    },
+    "exercise_database.json": {
+      "sha256": "8d4539c0446a234e88c47d5c692b4b406fbf47a7b091c35a276f43a9ec2ebbf5",
+      "bytes": 92627
+    },
+    "expansion.tsv": {
+      "sha256": "7d49f0d07aa9d334812259f2cfa07ddf399dd6e79787ae0114068119c9058585",
+      "bytes": 9103
+    },
+    "README.txt": {
+      "sha256": "1c2546b4acfdf0e625efd070026edf17fe53547d7ca1240888df2fd6567fa4a3",
+      "bytes": 1865
+    }
+  }
+}
